@@ -1,0 +1,14 @@
+{
+  "name": "eventable",
+  "version": "0.0.1",
+  "authors": [
+    "jMas <jmas.ukraine@gmail.com>"
+  ],
+  "description": "Eventable wrapper.",
+  "main": "eventable.js",
+  "keywords": [
+    "Eventable"
+  ],
+  "license": "MIT",
+  "private": true
+}

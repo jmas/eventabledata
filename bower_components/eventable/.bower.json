@@ -1,0 +1,23 @@
+{
+  "name": "eventable",
+  "authors": [
+    "jMas <jmas.ukraine@gmail.com>"
+  ],
+  "description": "Eventable wrapper.",
+  "main": "eventable.js",
+  "keywords": [
+    "Eventable"
+  ],
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/jmas/eventable",
+  "_release": "25f2707b72",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "25f2707b72f77b9eabb055fffd5595efc4356cbe"
+  },
+  "_source": "https://github.com/jmas/eventable.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jmas/eventable.git"
+}

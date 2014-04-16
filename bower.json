@@ -1,0 +1,20 @@
+{
+  "name": "eventabledata",
+  "version": "0.0.1",
+  "authors": [
+    "jMas <jmas.ukraine@gmail.com>"
+  ],
+  "description": "EventableData prototype.",
+  "main": "eventabledata",
+  "keywords": [
+    "eventabledata"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eventable": "https://github.com/jmas/eventable.git"
+  },
+  "ignore": [
+    "bower_components"
+  ],
+}
