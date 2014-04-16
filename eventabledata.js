@@ -1,4 +1,8 @@
-define('eventable', function() {
+define(
+'eventabledata',
+['bower_components/eventable'],
+function(eventable) {
+  
   var EventableData = function(o) { this.o = o; };
 
   eventable(EventableData.prototype);
