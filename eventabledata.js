@@ -1,7 +1,4 @@
-define(
-'eventabledata',
-['bower_components/eventable'],
-function(eventable) {
+define('eventabledata', ['eventable'], function(eventable) {
   
   var EventableData = function(o) { this.o = o; };
 
